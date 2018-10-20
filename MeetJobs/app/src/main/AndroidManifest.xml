@@ -18,8 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".videocall"></activity>
-        <activity android:name=".DetailedOfferActivity"></activity>
+        <activity android:name=".videocall" />
+        <activity android:name=".DetailedOfferActivity" />
+        <activity android:name=".Challenge"></activity>
     </application>
 
 </manifest>

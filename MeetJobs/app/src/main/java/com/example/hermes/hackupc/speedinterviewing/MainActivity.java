@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
 
     private Offer[] generateOffers() {
         return new Offer[]{
-                new Offer("Title", "Description"),
-                new Offer("Title 3", "Description 3")
+                new Offer("Android developer", "Junior Android Developer at Helm"),
+                new Offer("Python data analyst", "Python data analyst for big data projects")
         };
     }
 
